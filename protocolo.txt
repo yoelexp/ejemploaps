@@ -1,0 +1,28 @@
+ 
+Un protocolo de red de comunicación de datos es un conjunto de reglas que gobierna el intercambio 
+ordenado de datos dentro de la red. 
+Los  elementos  básicos  de  un  protocolo  de  comunicaciones  son:  un  conjunto  de  símbolos llamados conjunto de caracteres,
+ un conjunto de reglas para la secuencia y  sincronización  de  los  mensajes  construidos  a  partir  del  conjunto  de  caracteres 
+ y  los procedimientos para determinar cuando ha ocurrido un error en la transmisión y como corregir el error.
+
+Tesis de Licenciatura. Ing. Mec. Eléc. – Eléct. y Electrón. – Mód. Com. 
+
+
+
+coponentes bacicos del sistema de comunicaciones
+-mensaje
+-fuente
+-destino
+-medio
+-protocolo
+
+elementos de un protocolo
+-sintaxis
+-semantica
+-sincronizacion
+
+controlo de flujo
+sirve para no saturar al receptor
+
+tarea:
+ventajas y desventajas de las topologias.
